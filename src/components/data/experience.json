@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "Associate Flutter Developer Intern ",
+    "organisation": "AIntelligence Technologies",
+    "startDate": "August, 2024",
+    "endDate": "Present",
+    "location": "Remote",
+    "experiences": [
+      "Assisted in the design and development of high-quality, responsive mobile applications using Flutter.",
+"Collaborated with cross-functional teams to define, design, and implement new features."
+    ],
+    "imageSrc": "company/Aintelligence.webp"
+  },
+  {
+    "id": 2,
+    "role": "Website Developer",
+    "organisation": "The One Liner",
+    "startDate": "July, 2024",
+    "endDate": "October, 2024",
+    "location": "Remote",
+    "experiences": [
+      "Managed and updated The One Liner’s website, ensuring optimal performance and security.",
+       "Coordinated with content writers to review, edit, and publish high-quality articles. Utilized Click Up for efficient task management, meeting deadlines, and maintaining clear communication."
+    ],
+    "imageSrc": "company/the_one_liner_logo.jpeg"
+  },
+  {
+    "id": 3,
+    "role": "Website Developer",
+    "organisation": "Kanishka IT",
+    "startDate": "June, 2024",
+    "endDate": "July, 2024",
+    "location": "Remote",
+    "experiences": [
+      "Developed and enhanced the Kanishka IT Company website using JavaScript, PHP, React and Express.",
+"Implemented updates and improvements to enhance website functionality and user experience. Ensured the website met organizational goals and client requirements through continuous testing and optimization. Developed the frontend and UI/UX design of the company website to create an intuitive and visually appealing user experience"
+    ],
+    "imageSrc": "company/kanishka_it_logo.jpeg"
+  }
+]
