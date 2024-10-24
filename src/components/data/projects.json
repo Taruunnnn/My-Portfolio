@@ -2,7 +2,7 @@
   {
     "key": 1,
     "title": "Gemini Pro ChatBot",
-    "imageSrc": "https://pixabay.com/get/gdb57c6649f586369a7bd17cf01b96d173369722691ad0171623fa860caf5d1eb2e7e2c94cd4020ff2a4607ed43b9ac9b25b286c51d02f4e7c09ede2e1d058940_1280.png",
+    "imageSrc": "public/assets/projects/ai-generated-8327376_960_720.png",
     "description": "This Flask-based chat application is being developed with utilizing HTML, CSS, and JS. This project encompasses Gemini, an AI-powered conversational chatbot.",
     "demo": "https://gemini-pro-chatbot-7.onrender.com/home",
     "source": "https://github.com/Taruunnnn/Gemini-Pro-Chatbot"
@@ -10,7 +10,7 @@
   {
     "key": 2,
     "title": "Movie Review Sentiment Analysis",
-    "imageSrc": "https://pixabay.com/get/gd0a2e297d3a51479f0ec3e55a3f725a2164c0e658970f1779cd5939d0996d26e87a293bb370d51cc6e0dd9ae0adff8eda3c057077581bb2746457759e897dd41_1280.jpg",
+    "imageSrc": "public/assets/projects/popcorn-1433326_1280.jpg",
     "description": "This project uses a trained machine learning model to analyze the sentiment of the entered movie review and predicts whether the sentiment is positive or negative.",
     "demo": "https://movie-review-sentiment-analysis-1-4bor.onrender.com/",
     "source": "https://github.com/Taruunnnn/Movie_Review_Sentiment_Analysis"
@@ -18,7 +18,7 @@
   {
     "key": 3,
     "title": "House price prediction using flask",
-    "imageSrc": "https://pixabay.com/get/g3c071120714e118debc6a574e9f628078817b702d05aa3b2566e5b92d40811bb88c2057ceaf64d027399be41b73ad1cad53daff3aa13b755d16dbd3246b34414_1280.jpg",
+    "imageSrc": "public/assets/projects/house-1836070_1280.jpg",
     "description": "In this project, I developed the predictive power of a model trained on house price data. It deploys with flask API and uses Linear Regression to predict the price value.",
     "demo": "https://house-price-prediction-using-flask-14.onrender.com/",
     "source": "https://github.com/Taruunnnn/House-price-prediction-using-flask"
@@ -26,7 +26,7 @@
   {
     "key": 4,
     "title": "Food Order App",
-    "imageSrc": "https://pixabay.com/get/g9d5bd5bf0572a3a87f2aa3b5b0feb1f69d39ec977b36f4c1dfc9eb325e10953e351830f966b986858fcf3671f54bcb334a1beff8a4703431ee2e360effdc9585_1280.jpg",
+    "imageSrc": "public/assets/projects/cheese-burger-8770017_1280.png",
     "description": "This is a food order app where we can search for our required food dish. We can select the food we want from the menu in any quantity we need and than we can order it with the cart.",
     "demo": "https://tarun-food-order-app.netlify.app/",
     "source": "https://github.com/Taruunnnn/Food-Order-App"
