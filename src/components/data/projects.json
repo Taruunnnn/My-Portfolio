@@ -2,7 +2,7 @@
   {
     "key": 1,
     "title": "Gemini Pro ChatBot",
-    "imageSrc": "public/assets/projects/ai-generated-8327376_960_720.png",
+    "imageSrc": "projects/ai-generated-8327376_960_720.png",
     "description": "This Flask-based chat application is being developed with utilizing HTML, CSS, and JS. This project encompasses Gemini, an AI-powered conversational chatbot.",
     "demo": "https://gemini-pro-chatbot-7.onrender.com/home",
     "source": "https://github.com/Taruunnnn/Gemini-Pro-Chatbot"
@@ -10,7 +10,7 @@
   {
     "key": 2,
     "title": "Movie Review Sentiment Analysis",
-    "imageSrc": "public/assets/projects/popcorn-1433326_1280.jpg",
+    "imageSrc": "projects/popcorn-1433326_1280.jpg",
     "description": "This project uses a trained machine learning model to analyze the sentiment of the entered movie review and predicts whether the sentiment is positive or negative.",
     "demo": "https://movie-review-sentiment-analysis-1-4bor.onrender.com/",
     "source": "https://github.com/Taruunnnn/Movie_Review_Sentiment_Analysis"
@@ -18,7 +18,7 @@
   {
     "key": 3,
     "title": "House price prediction using flask",
-    "imageSrc": "public/assets/projects/house-1836070_1280.jpg",
+    "imageSrc": "projects/house-1836070_1280.jpg",
     "description": "In this project, I developed the predictive power of a model trained on house price data. It deploys with flask API and uses Linear Regression to predict the price value.",
     "demo": "https://house-price-prediction-using-flask-14.onrender.com/",
     "source": "https://github.com/Taruunnnn/House-price-prediction-using-flask"
@@ -26,7 +26,7 @@
   {
     "key": 4,
     "title": "Food Order App",
-    "imageSrc": "public/assets/projects/cheese-burger-8770017_1280.png",
+    "imageSrc": "projects/cheese-burger-8770017_1280.png",
     "description": "This is a food order app where we can search for our required food dish. We can select the food we want from the menu in any quantity we need and than we can order it with the cart.",
     "demo": "https://tarun-food-order-app.netlify.app/",
     "source": "https://github.com/Taruunnnn/Food-Order-App"
